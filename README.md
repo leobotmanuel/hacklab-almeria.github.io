@@ -48,7 +48,7 @@ Una vez hayas terminado la actividad y quieras _publicarla_, símplemente debes 
 
 Una vez esté en publicada en actividades, Discourse está configurado para **crear automáticamente una entrada en https://foro.hacklabalmeria.net/c/actividades**
 
-Consulta la sección de automatismos para saber qué otras cosas ocurren automágicamente.
+Consulta la sección de automatismos para saber qué otras cosas ocurren automáticamente.
 
 ### ¿Cómo se modifica el menú del foro?
 
